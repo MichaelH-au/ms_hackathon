@@ -1,0 +1,380 @@
+[
+   {
+    "id": "1136",
+    "address": "Level 3, Civic Centre 260 Liverpool Road Ashfield NSW 2131 Sydney South Zone Council: Ashfield",
+    "latitude": -33.888913,
+    "longitude": 151.124244,
+    "open_close_state": "Saturday 09:00–16:00",
+    "title": "Ashfield Municipal Library",
+    "icon_url": "https://lh5.googleusercontent.com/p/AF1QipOiI-PCoLOUINq44dzLCAQWcymkUWYeSAwyaClB=w408-h306-k-no"
+  }, 
+  {
+    "id": "1149",
+    "address": "2 Conder Street Burwood NSW 2134 Sydney South Zone Council: Burwood",
+    "latitude": -33.8770261,
+    "longitude": 151.1058495,
+    "open_close_state": "Saturday 09:30–16:00",
+    "title": "Burwood Library",
+    "icon_url": "https://lh5.googleusercontent.com/proxy/Z5hupmTAyX9kcB-dHg-Hh927Uzp_5ZgBKmmvL3RrOmouWvUzc4xjpDwgpJ16NiT7qHu60vv7KIlavRf-2uEo4_Ud0Sp2ka-vrb0T3qmrYQ6uU-wNwyfQ92dgiPT3x5W4j_atfOhRcKupJ66XGdWvLY3Uf1YrwfI=w408-h613-k-no"
+  }, 
+   {
+    "id": "1183",
+    "address": "Library Walk Lane Cove NSW 2066 Sydney North Zone Council: Lane Cove",
+    "latitude": -33.8156581,
+    "longitude": 151.1700597,
+    "open_close_state": "Saturday 09:30–17:00",
+    "title": "Lane Cove Library",
+    "icon_url": "https://lh5.googleusercontent.com/proxy/HuvmB8ioqAthMh5GGk-D7dFNyA0xAKBiJaW3rsBLrFNPxdjXZO3YB_AVu4zcf1L4Y-xgcWnrjVW9aKGxHlzOl0VXHxtSM4zQ1NdfmLSVZzyY8fN3Q26aOhagiSYk-xzLr9xud_XWY7bHEtJbcV1Z2vPwGkWr7Q=w408-h236-k-no"
+  }, 
+  {
+    "id": "1191",
+    "address": "Town Hall Marrickville Road Marrickville NSW 2204 Sydney South Zone Council: Marrickville",
+    "latitude": -33.9101702,
+    "longitude": 151.1555465,
+    "open_close_state": "Saturday 09:30–17:00",
+    "title": "Marrickville Library",
+    "icon_url": "https://lh5.googleusercontent.com/p/AF1QipMUeYom1nzaGX7JZ-3_2G_X9AJMIz5dWxcqM-h6=w408-h229-k-no"
+  }, 
+  {
+    "id": "1194",
+    "address": "Library Walk 605 Military Road Mosman NSW 2088 Sydney North Zone Council: Mosman",
+    "latitude": -33.8252691,
+    "longitude": 151.2424199,
+    "open_close_state": "Saturday 10:00–16:00",
+    "title": "Mosman Library",
+    "icon_url": "https://geo3.ggpht.com/cbk?panoid=TDyuzZ3hMRcFgqT3ocETDw&output=thumbnail&cb_client=search.TACTILE.gps&thumb=2&w=408&h=200&yaw=206.55203&pitch=0&thumbfov=100"
+  }, 
+  {
+    "id": "1207",
+    "address": "The Bowen Library 669-673 Anzac Parade Maroubra NSW 2035 Sydney South Zone Council: Randwick City",
+    "latitude": -33.9359945,
+    "longitude": 151.2382828,
+    "open_close_state": "Saturday 09:30–16:00",
+    "title": "Lionel Bowen Library",
+    "icon_url": "https://lh5.googleusercontent.com/p/AF1QipNtjSkjsLlbIkmgrnmZNSd1Kb6r96Opdpi9H10h=w560-h200-k-no"
+  },
+  {
+    "id": "1211",
+    "address": "448 Princes Highway Rockdale NSW 2216 Sydney South Zone Council: Rockdale City",
+    "latitude": -33.950568,
+    "longitude": 151.139132,
+    "open_close_state": "Saturday 09:00–17:00",
+    "title": "Rockdale City Library",
+    "icon_url": "https://lh4.googleusercontent.com/proxy/vbekgj2r7MyQWm-V25gEfBuGihH4Wc5Ru7c3AvlIONaRvomluH94ymJLGDTtgfiZPLVfKvnTrmggIiFn5kFG5hIamuZUA4wt8-6Bn0mr8NgfJGrnBOXZ_Co22rtJBDfz0Ql-cWV6PCxkWFCjdqnPv3vAvNaP4Q=w408-h305-k-no"
+  },
+  {
+    "id": "1212",
+    "address": "1 Pope Street Ryde NSW 2112 Sydney North Zone Council: Ryde City",
+    "latitude": -33.811444900000,
+    "longitude": 151.107252800000,
+    "open_close_state": "Saturday 09:30–17:00",
+    "title": "Ryde Library",
+    "icon_url": "https://lh4.googleusercontent.com/proxy/A3yVu_dgUVTKyl8ytiP1tlK-DTAzJELJD8EqcoB4_NVQSXwRCrvTVu1djJOwhlGX2nxRGsLr-NbcgGZwynSWDipNSjK_gD8oW4gVoLADl2RGVx6mbOIZGGmY3_Omv2ZkR7OjNFpysRanffVYWIbwc-SgoGo1h3A=w408-h254-k-no"
+  },
+  {
+    "id": "1217",
+    "address": "234 Miller Street North Sydney NSW 2060 Sydney North Zone Council: North Sydney",
+    "latitude": -33.833061,
+    "longitude": 151.207302,
+    "open_close_state": "Saturday 10:00–17:00",
+    "title": "Stanton Library",
+    "icon_url": "https://lh6.googleusercontent.com/proxy/hESjroxN_X4m2zsiueddhOl--EUD8UD7EzXkHpp6xN-dZGoNe7veq5wRkUCPL1MAtaiIFfWa-5GwYac76DUwB8JxCB28CbNvo6HUFfCp3I4MF6gzV5Jprahc2gzEMSwbiyVR6U-0fUKyaeyBkPIXn_TqWn4Cst8=w408-h270-k-no"
+  },
+  {
+    "id": "1218",
+    "address": "65-67 Rochester Street Homebush NSW 2140 Sydney South Zone Council: Strathfield",
+    "latitude": -33.869152,
+    "longitude": 151.083498,
+    "open_close_state": "Saturday 09:00–16:00",
+    "title": "Strathfield Library",
+    "icon_url": "https://lh6.googleusercontent.com/proxy/_JD8BSqZvPr_0L2TXy5seqnDgDo2ZbUguO-emyE4b3cl8MTN2lMmjHGYmeUKJpw_HsWC6SgrdzkKwKU3sIUz5_cQTKMiaN1GLpcSt3UPMwTRAksJ2hOdJP1PQNltmmEDWqeQ-kCpqyKWNZ4F95joeUN8vslxRw=w408-h271-k-no"
+  },
+  {
+    "id": "1227",
+    "address": "Ron Lander Centre 32-48 Denison Street Bondi Junction NSW 2022 Sydney South Zone Council: Waverley",
+    "latitude": -33.892785,
+    "longitude": 151.245143,
+    "open_close_state": "Saturday 09:30–15:00",
+    "title": "Waverley Library",
+    "icon_url": "https://lh4.googleusercontent.com/proxy/glN_ecjUEzdczb1Ti8UmRpMdbeHdMqr_BJnPiwKTLRd8L87VotUQc8tGFrEwgJKckzxIL0ycCaEWtPq283UEyyVfTwfPsO-aoNi0ga-Sc_PjhSYE3ePZwcwR2sh02rgjl2j75lPJIWdFE50sIOVLBkjPStNXtcQ=w408-h509-k-no"
+  },
+  {
+    "id": "1230",
+    "address": "Lower Ground, The Concourse 409 Victoria Av, Chatswood NSW 2067 Sydney North Zone Council: Willoughby City",
+    "latitude": -33.7979127,
+    "longitude": 151.1827107,
+    "open_close_state": "Saturday 09:00–17:00",
+    "title": "Willoughby City Library",
+    "icon_url": "https://lh6.googleusercontent.com/proxy/u_dSDjzp66zSpJ7DgmEDCIjAZvT5hnKMC5BXLd-Q-0KEECEzB_041e9uBFYtn3k100dZHOyexBrZBBY91oirDvmnbv0BgOt5vx1PiRYObOjEKYvseAy5sDxIJrNqGuHp24ZK8ygZpqda8KtYEILsXCN7_js-mHo=w408-h228-k-no"
+  },
+  {
+    "id": "1234",
+    "address": "451 New South Head Road Double Bay NSW 2028 Sydney South Zone Council: Woollahra Municipal",
+    "latitude": -33.872378,
+    "longitude": 151.248246,
+    "open_close_state": "Saturday 10:00–16:00",
+    "title": "Woollahra Library",
+    "icon_url": "https://lh4.googleusercontent.com/proxy/65kp18oNQBXziz-ClPUbcYbmIsUNXMk9dW2mIaBshkCX8ATxExH2r_ZC3_Zekc1poqMyZX5TDR8YQ6kt1G7uwZCSm3m8jUhnD8RKF--Zr0Mqkj2j6-1MGsc76EbY9EpWyjlVbHqlMPA3IDWrBI1b1Kw0wInbE8s=w408-h239-k-no"
+  },
+  {
+    "id": "1261",
+    "address": "2-4 Hatfield Street Mascot NSW 2020 Sydney South Zone Council: City of Botany Bay Library",
+    "latitude": -33.930124,
+    "longitude": 151.193454,
+    "open_close_state": "Saturday 10:00–13:00",
+    "title": "Mascot Library",
+    "icon_url": "https://lh3.googleusercontent.com/proxy/8TzhKJE8LLG1E3FlqsjwCtpXHbCMDihuBgVhi5-KdWXnNUVPI6PjSzoN5hjNKxwS7bRo_zcdjKNIavtWrKAExBuktHO-xeULhSkWX5znYNPWQDQPxxS8fs9ImCTsot0UPGSAQi3sdedw2h7JRcyBW4gC_Q9TfLc=w408-h277-k-no"
+  },
+  {
+    "id": "1349",
+    "address": "48 Greenwich Road Greenwich NSW 2065 Sydney North Zone Council: Lane Cove",
+    "latitude": -33.8291725,
+    "longitude": 151.1880623,
+    "open_close_state": "Saturday 09:00–13:00",
+    "title": "Greenwich Library",
+    "icon_url": "https://lh5.googleusercontent.com/p/AF1QipMKT31IbaLm5zLDVkZw8DI_ME426iKrMamgIalJ=w408-h306-k-no"
+  },
+  {
+    "id": "1366",
+    "address": "12 Seaview Street Dulwich Hill NSW 2203 Sydney South Zone Council: Marrickville",
+    "latitude": -33.9039474,
+    "longitude": 151.1436681,
+    "open_close_state": "Saturday 09:00–12:00",
+    "title": "Dulwich Hill Library",
+    "icon_url": "https://lh5.googleusercontent.com/p/AF1QipMkMBLlwTUXOovkPbPKKgySEpqje7JGHyN1vNvY=w408-h229-k-no"
+  },
+  {
+    "id": "1367",
+    "address": "Town Hall Corner Unwins Bridge Road & Swain Street Sydenham NSW 2044 Sydney South Zone Council: Marrickville",
+    "latitude": -33.915147,
+    "longitude": 151.1669,
+    "open_close_state": "Saturday 09:00–12:00",
+    "title": "St Peters/Sydenham Library",
+    "icon_url": "https://lh5.googleusercontent.com/p/AF1QipO9c25AMAxioeus4Yz_6DvKKENbq6aUVfLBq3ED=w408-h200-k-no-pi-0-ya130.5-ro-0-fo100"
+  },
+  {
+    "id": "1368",
+    "address": "Douglas Street Stanmore NSW 2048 Sydney South Zone Council: Marrickville",
+    "latitude": -33.8936003,
+    "longitude": 151.1617286,
+    "open_close_state": "Saturday 09:00–12:00",
+    "title": "Stanmore Library",
+    "icon_url": "https://lh5.googleusercontent.com/p/AF1QipMDMSDEhPFsLYZgFEupkltjDuoYuD2OlXs2ozIy=w408-h229-k-no"
+  },
+  {
+    "id": "1408",
+    "address": "1203 Anzac Parade Malabar NSW 2036 Sydney South Zone Council: Randwick City",
+    "latitude": -33.962293,
+    "longitude": 151.245961,
+    "open_close_state": "Saturday 09:30–17:00",
+    "title": "Malabar Library",
+    "icon_url": "https://lh5.googleusercontent.com/p/AF1QipOAHpNsa7Y1NpyortcE89GZiOvD4fmgmwqnE8A3=w408-h306-k-no"
+  },
+  {
+    "id": "1409",
+    "address": "Level 1, Royal Randwick Shopping Centre Avoca Street Randwick NSW 2031 Sydney South Zone Council: Randwick City",
+    "latitude": -33.9181771,
+    "longitude": 151.240959,
+    "open_close_state": "Saturday 09:30–16:00",
+    "title": "Margaret Martin Library",
+    "icon_url": "https://lh5.googleusercontent.com/p/AF1QipO8Ef1y7XXJ-A6MmhSo8YWW46YiFonr7BUR5JzC=w408-h272-k-no"
+  },
+  {
+    "id": "1441",
+    "address": "11 Firth Street Arncliffe NSW 2205 Sydney South Zone Council: Rockdale City",
+    "latitude": -33.9360471,
+    "longitude": 151.1470657,
+    "open_close_state": "Saturday 10:00–13:00",
+    "title": "Arncliffe Library",
+    "icon_url": "https://geo0.ggpht.com/cbk?panoid=rwLZqutsYoX35fwREZRdfw&output=thumbnail&cb_client=search.TACTILE.gps&thumb=2&w=408&h=200&yaw=192.5696&pitch=0&thumbfov=100"
+  },
+  {
+    "id": "1442",
+    "address": "499 Forest Road Bexley NSW 2207 Sydney South Zone Council: Rockdale City",
+    "latitude": -33.950602,
+    "longitude": 151.125415,
+    "open_close_state": "Closed on Saturday",
+    "title": "Bexley Library",
+    "icon_url": "https://lh5.googleusercontent.com/p/AF1QipPblxtSjjhb9bhTUKMtBG6caNSl2siRkx_xI6o=w408-h544-k-no"
+  },
+  {
+    "id": "1443",
+    "address": "24 Shaw Street Bexley North NSW 2207 Sydney South Zone Council: Rockdale City",
+    "latitude": -33.938013,
+    "longitude": 151.112968,
+    "open_close_state": "Saturday 10:00–13:00",
+    "title": "Bexley North Library",
+    "icon_url": "https://geo3.ggpht.com/cbk?panoid=h8UqEJJy5bWT5j23-WU_oA&output=thumbnail&cb_client=search.TACTILE.gps&thumb=2&w=408&h=200&yaw=346.16382&pitch=0&thumbfov=100"
+  },
+  {
+    "id": "1444",
+    "address": "1 Moate Avenue Brighton Le Sands NSW 2216 Sydney South Zone Council: Rockdale City",
+    "latitude": -33.958954,
+    "longitude": 151.155208,
+    "open_close_state": "Saturday 09:00–17:00",
+    "title": "Brighton Le Sands Library",
+    "icon_url": "https://lh4.googleusercontent.com/proxy/vbekgj2r7MyQWm-V25gEfBuGihH4Wc5Ru7c3AvlIONaRvomluH94ymJLGDTtgfiZPLVfKvnTrmggIiFn5kFG5hIamuZUA4wt8-6Bn0mr8NgfJGrnBOXZ_Co22rtJBDfz0Ql-cWV6PCxkWFCjdqnPv3vAvNaP4Q=w408-h305-k-no"
+  },
+  {
+    "id": "1446",
+    "address": "Corner Hillview Road & West Parade Eastwood NSW 2122 Sydney North Zone Council: Ryde City",
+    "latitude": -33.7908972,
+    "longitude": 151.0817993,
+    "open_close_state": "Saturday 09:30–12:00",
+    "title": "Eastwood Library",
+    "icon_url": "https://lh5.googleusercontent.com/p/AF1QipOKFlhXdEdNNMg2RR8Z6dtKuH8MxpFhkqwNZElC=w408-h306-k-no"
+  },
+  {
+    "id": "1447",
+    "address": "6 Pittwater Road Gladesville NSW 2111 Sydney North Zone Council: Ryde City",
+    "latitude": -33.829267,
+    "longitude": 151.127658,
+    "open_close_state": "Saturday 09:30–12:00",
+    "title": "Gladesville Library",
+    "icon_url": "https://lh3.googleusercontent.com/proxy/kpZ71mdU97citTscLUH_vqAh8JfFGYgdgwsPyAc5AKvrjMvPe1DVisBuEWn2oN4_H-i0HXJA-kGCtEaUhjg1nO2QL5OKm_kTMcRz2L_bUIaFyEqUiwTSQhpzx3Be1q9bmbFk3hizeDJzVjH6HsFpZCcHKw3lSu4=w408-h305-k-no"
+  },
+  {
+    "id": "1448",
+    "address": "201 Coxs Road North Ryde NSW 2113 Sydney North Zone Council: Ryde City",
+    "latitude": -33.7946923,
+    "longitude": 151.1224393,
+    "open_close_state": "Saturday 09:30–12:00",
+    "title": "North Ryde Library",
+    "icon_url": "https://lh5.googleusercontent.com/p/AF1QipO0htBgfY_vjE5u7pLBYTv3QIYXHxflf9oz1u9P=w408-h306-k-no"
+  },
+  {
+    "id": "1449",
+    "address": "2 Graf Avenue West Ryde NSW 2114 Sydney North Zone Council: Ryde City",
+    "latitude": -33.8070005,
+    "longitude": 151.088065,
+    "open_close_state": "Saturday 09:30–17:00",
+    "title": "West Ryde Library",
+    "icon_url": "https://lh5.googleusercontent.com/proxy/DudDmVLxi6410gSJKrOdINV_aAtrT8D4xDNbRCmEyC4lFtH8VA8PjUUW7zcKK2vkkaIC0LqkUOatOHyR2tJrjrJcEWVlU6sr03wYyVMNg4hUJxiN9awLxO4QOsZWcGvAiJcQzT6ALPExjjIO7MtTUvi156z0sA=w408-h613-k-no"
+  },
+  {
+    "id": "1466",
+    "address": "186 Glebe point Road Glebe NSW 2037 Sydney South Zone Council: City Of Sydney",
+    "latitude": -33.878038,
+    "longitude": 151.185016,
+    "open_close_state": "Saturday 10:00–16:00",
+    "title": "Glebe Library",
+    "icon_url": "https://lh4.googleusercontent.com/proxy/azvxPVcTDfmAEQQKz6NjY7psq17zFzktyFwVFLSPcDh03bd7sgPvTUE7akjnOQShgXk8kpns_3wKrPGtkzlsOH-h0NF0M6La-xh5ItrbghTIc2UtLw6oYCaySh6nQnn3IUNY9VUPAK51xR5ixllOQPxoX7kt9ug=w408-h386-k-no"
+  },
+  {
+    "id": "1468",
+    "address": "744 George Street Haymarket NSW 2000 Sydney South Zone Council: City Of Sydney",
+    "latitude": -33.879909,
+    "longitude": 151.205513,
+    "open_close_state": "Saturday 10:00–16:00",
+    "title": "Haymarket Library",
+    "icon_url": "https://lh5.googleusercontent.com/p/AF1QipN_h5w336yf9cRn4XqOvOhEZhddWfnnWrK79RY0=w408-h544-k-no"
+  },
+  {
+    "id": "1469",
+    "address": "50-52 Darlinghurst Road Kings Cross NSW 2011 Sydney South Zone Council: City Of Sydney",
+    "latitude": -33.874122,
+    "longitude": 151.223613,
+    "open_close_state": "Saturday 10:00–16:00",
+    "title": "Kings Cross Library",
+    "icon_url": "https://lh5.googleusercontent.com/proxy/UZQARsjYZl8jl5D4fhJ8p1i3CvNBFfbqFb_o5KriKMevIM87_wkFblb3UbSfrurUtbfUUGiZKddsyAIfTJ0Zzw_vaepIEA7PYP93Mk42AkMWIZ0d8tu9rj4VHQN8ozdbur3HWIq5YJF42RmCzKm5GQrXVgUPFA=w408-h230-k-no"
+  },
+  {
+    "id": "1470",
+    "address": "8-10 Brown Street Newtown NSW 2042 Sydney South Zone Council: City Of Sydney",
+    "latitude": -33.8953593,
+    "longitude": 151.1826668,
+    "open_close_state": "Saturday 11:00–16:00",
+    "title": "Newtown Library",
+    "icon_url": "https://lh5.googleusercontent.com/proxy/SSfNgooR4pSVXK6H8u7Kn2yLdLG9VWmE7b9qPal_NEK7vjZJjouv-HNRtv2dCqyqJJjqDkuvyLJSC_eUyFAwJBiuO1VfoQ-eknEy3nep19I8SDHM519fogg8Nq0bR6IDND6BkpblfYEf4fKSj8fsVzDcwR_FSw=w408-h230-k-no"
+  },
+  {
+    "id": "1471",
+    "address": "Town Hall 247 Oxford Street Paddington NSW 2021 Sydney South Zone Council: City Of Sydney",
+    "latitude": -33.8849881,
+    "longitude": 151.2256496,
+    "open_close_state": "Saturday 10:00–16:00",
+    "title": "Paddington Library",
+    "icon_url": "https://lh3.googleusercontent.com/proxy/mfwVN-PqCVV1Wo16Xqef6nyGTD6GWtG-sNysN-9cbPX83Fp9TSUbWvWtXhXrmvYUOcoy8K-jMwAMmjbQI2JJfneqgf619IKlxZDTxChl96nueU38rAXrvxuD-Q2sx9LSn9w55bl8ZRieRnn4ZuVjJWcDX5ZwWQ=w408-h271-k-no"
+  },
+  {
+    "id": "1472",
+    "address": "405 Crown Street Surry Hills NSW 2010 Sydney South Zone Council: City Of Sydney",
+    "latitude": -33.8906466,
+    "longitude": 151.2129254,
+    "open_close_state": "Saturday 10:00–16:00",
+    "title": "Surry Hills Library",
+    "icon_url": "https://lh5.googleusercontent.com/proxy/hdVtXuOj0o7Ps3-pUkE_4gc4Osm2mVsqk8MrzztcP7WNm_aalrprM4G1KRtE3D-5Ecb9KXIN0kaEGfTHFgOkxdEzAg_bcr6PrPE9mmNvRLd5NrExyft7xll6VB-Aqx3Pi8-xFgcwrzCtECE9CYkVCFFNIsTM9Go=w408-h230-k-no"
+  },
+  {
+    "id": "1473",
+    "address": "Ultimo Community Centre, 1st Floor 40 William Henry Street Ultimo NSW 2007 Sydney South Zone Council: City Of Sydney",
+    "latitude": -33.877708,
+    "longitude": 151.197948,
+    "open_close_state": "Saturday 10:00–16:00",
+    "title": "Ultimo Library",
+    "icon_url": "https://lh4.googleusercontent.com/proxy/lJ5mPBhLA45WtnfH9IBdb8jDM-cb0VV4TzTPuocXmTiIAP18F90aoktvuF_Yd3eG7xEbRhbc6avnrUrG7pQVOgF9dJvm_jZGb3YT2VP01oMT9YTQTIhbaRj5p3Borb8Wy6XxwEDzAdAV1ZsoTmsULXDy70ORimM=w408-h230-k-no"
+  },
+  {
+    "id": "1474",
+    "address": "Waterloo Town Hall 770 Elizabeth Street Sydney NSW 2017 Sydney South Zone Council: City Of Sydney",
+    "latitude": -33.899372,
+    "longitude": 151.20676,
+    "open_close_state": "Saturday 11:00–16:00",
+    "title": "Waterloo Library",
+    "icon_url": "https://lh4.googleusercontent.com/proxy/k4L1wmzeBLylksCca73HxBnsL_kkIs8ffLrAJUxN_CkcjD_VvAIIRfN4rjWXz1Nzshu7QUF9tgt1uc5IumCONkqDTPFVBjTFUmKi5Gi2s1tOg2T0pfGXjA4z26-tBCVMnyqSmZttYE8heaz2f1ztVsmSdx0iE2U=w408-h305-k-no"
+  },
+  {
+    "id": "1491",
+    "address": "139 Artarmon Rd Artarmon NSW 2064 Sydney North Zone Council: Willoughby City",
+    "latitude": -33.8083781,
+    "longitude": 151.1853064,
+    "open_close_state": "Saturday 09:30–12:00",
+    "title": "Artarmon Library",
+    "icon_url": "https://lh5.googleusercontent.com/proxy/jfEYERCwflBtszlsdr0VOO9KeQlgcdqLOoc45nZAfuZuoI67E66I93STgynF3qtKaIl_L_apd9floZY6CiOxJWuVjvMfzoyo-msqK-GxOChmb3T3qGZT7eOLjF6pVxVby98ieDvZBhV8n-mhAxe4AOJxwNgyquw=w408-h271-k-no"
+  },
+  {
+    "id": "1492",
+    "address": "8B Deepwater Road Castle Cove NSW 2069 Sydney North Zone Council: Willoughby City",
+    "latitude": -33.782448,
+    "longitude": 151.198232,
+    "open_close_state": "Saturday 09:30–12:00",
+    "title": "Castle Cove Library",
+    "icon_url": "https://geo1.ggpht.com/cbk?panoid=pXIX54YsMAU3Hs7Eubyc2g&output=thumbnail&cb_client=search.TACTILE.gps&thumb=2&w=408&h=200&yaw=305.58047&pitch=0&thumbfov=100"
+  },
+  {
+    "id": "1494",
+    "address": "7 Central Street Naremburn NSW 2065 Sydney North Zone Council: Willoughby City",
+    "latitude": -33.8159649,
+    "longitude": 151.201489,
+    "open_close_state": "Saturday 09:30–12:00",
+    "title": "Naremburn Library",
+    "icon_url": "https://lh4.googleusercontent.com/proxy/db3FwIWXy62qx4i0868m7xLmuTSsJQRvDUetjMMoJ3nu_lu-UbYCp3ULFph_QMaSk1J1CpR4zVpzkO2nNWv5BV_kU28MNT93ledKuH-TXjYEdd8woT8PY6Ot0qlrX6Z4FR9cCqcHFDA89JPJv_SKmfaT55bmaIk=w408-h271-k-no"
+  },
+  {
+    "id": "1495",
+    "address": "258 Sailors Bay Road Northbridge NSW 2063 Sydney North Zone Council: Willoughby City",
+    "latitude": -33.811903,
+    "longitude": 151.216616,
+    "open_close_state": "Saturday 09:30–12:00",
+    "title": "Northbridge Library",
+    "icon_url": "https://lh5.googleusercontent.com/proxy/gsZ8G8ZtebP68CRbAu3MAzv_HyvEm3LHOZ_G2oLSZ6mS2L_tv5t2Jt_yfsuZjmd1oAyXMIhhZCYrQ3PEigS58tkeV5Fuf09ze_AjILIAWgUiS54sM_uV-E0YgBt8KeVF2DqYyF2PlsH-3VTEgi5kLKARi7UAIiI=w408-h322-k-no"
+  },
+  {
+    "id": "1496",
+    "address": "565 Mowbray Road West Chatswood NSW 2067 Sydney North Zone Council: Willoughby City",
+    "latitude": -33.8033099,
+    "longitude": 151.1829765,
+    "open_close_state": "Saturday 09:30–12:00",
+    "title": "West Chatswood Library",
+    "icon_url": "https://lh4.googleusercontent.com/proxy/YdstEATlkw2b_y7wkakTcaR7GyhImeF-U4sEkM2nWt8aIZQZS6EQYyMYaA-rIg5hbGzqaWOvwSStcdw6TAKX_c9-KsBvd48HlAkjGcL07Abrx6eVzBtij8k9obl3gBLAlIAeLgBSJSiWF33YPPLKQwl0psHyvwk=w408-h322-k-no"
+  },
+  {
+    "id": "1505",
+    "address": "Dunbar House Clovelly Street Watsons Bay NSW 2030 Sydney South Zone Council: Woollahra Municipal",
+    "latitude": -33.8441211,
+    "longitude": 151.2829206,
+    "open_close_state": "Closed on Saturday",
+    "title": "Watsons Bay Library",
+    "icon_url": "https://lh5.googleusercontent.com/p/AF1QipNujH3pnahXUaBo8b-VZoDpT3nVmABnOybsRjuf=w408-h200-k-no-pi-2.9338646-ya94.89761-ro0-fo100"
+  }
+]

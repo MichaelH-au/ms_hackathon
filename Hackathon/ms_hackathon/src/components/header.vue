@@ -9,8 +9,8 @@
       <div class="collapse navbar-collapse" id="navbarCollapse">
         <ul class="navbar-nav">
           <router-link active-class="active" to="/plant" style="text-decoration: none;">
-          <li class="nav-item active mr-5 ml-5 text-right">
-           <div style="color: black">Plant tree</div>
+          <li class="nav-item bar-item active mr-5 ml-5 text-right">
+           <div style="color: #77AD2D; font-family: Phosphate; font-size: 23px">Plant tree</div>
           </li>
           </router-link>
         </ul>
@@ -34,15 +34,34 @@
 
 <script>
     export default {
-      mounted () {
-        
-        $('.header_box')
+      mounted() {
+
+        $(window).scroll(function () {
+          console.log($(window).scrollTop());
+          if ($(window).scrollTop() > 100) {
+            $(".header_box>nav").addClass('bg-light');
+          }
+          if ($(window).scrollTop() == 0) {
+            $(".header_box>nav").removeClass('bg-light');
+          }
+        });
+
       }
     }
 </script>
 
 <style scoped>
-  .header_box{
+  .header_box>nav{
     transition: .5s;
+  }
+  .bar-item{
+    transition: .5s;
+    height: 50px;
+    line-height: 50px;
+  }
+  .bar-item:hover {
+    background: lightgreen;
+    transition: .5s;
+    border-radius: 5px;
   }
 </style>

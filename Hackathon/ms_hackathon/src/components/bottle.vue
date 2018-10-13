@@ -1,26 +1,5 @@
 <template>
   <div id="tmp">
-    <header>
-      <nav class="navbar navbar-expand-md fixed-top header navbar-light bg-light">
-        <div class="navbar-brand">Recycling visualization</div>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarCollapse">
-          <ul class="navbar-nav mr-auto">
-              <li class="nav-item active">
-                <i class="fas fa-trash" style="color: green; font-size: 24px"></i>
-              </li>
-              <li class="nav-item">
-                <i class="fas fa-tshirt" style="color: green; font-size: 24px"></i>
-              </li>
-              <li class="nav-item">
-                <i class="fas fa-book" style="color: green; font-size: 24px"></i>
-              </li>
-          </ul>
-
-        </div>
-      </nav>
-    </header>
-
     <div id="modal-demo" class="modal fade show">
       <div class="modal-dialog">
         <div class="modal-content">
@@ -96,9 +75,9 @@
       $.ajax({
         type: 'get',
         dataType: 'json',
-        // url: 'http://45.77.48.219/machine',
+        url: 'http://45.77.48.219/machine',
         // url: '/static/ReverseVendingMachine.json',
-        url: '/static/library.json',
+        // url: '/static/library.json',
         success: function (res) {
           console.log(res);
           // console.log(that.markers);

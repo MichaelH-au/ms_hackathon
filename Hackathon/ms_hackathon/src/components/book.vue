@@ -10,7 +10,7 @@
           <div class="modal-body win_body">
             <div class="card card_box mb-3">
               <div class="card_img_box">
-                <img class="card-img-top card_image"  src="../assets/images/cloth_img.jpg" alt="">
+                <img class="card-img-top card_image"  src="../assets/images/book_img.jpg" alt="">
               </div>
               <div class="card-body">
                 <i class="fas fa-recycle" style="color:white"></i>
@@ -63,7 +63,7 @@
       return {
         markers: [],
         my_loc: {
-          url: require('../assets/images/cloth.png'),
+          url: require('../assets/images/book.png'),
           size: {width: 26, height: 36, f: 'px', b: 'px'},
           scaledSize: {width: 20, height: 30, f: 'px', b: 'px'}
         },
@@ -75,14 +75,13 @@
       $.ajax({
         type: 'get',
         dataType: 'json',
-        url: 'http://45.77.48.219/clothes',
+        url: 'http://45.77.48.219/book',
         // url: '/static/ReverseVendingMachine.json',
         // url: '/static/library.json',
         success: function (res) {
           console.log(res);
           // console.log(that.markers);
           for (let loc of res) {
-            // console.log(typeof (loc.latitude) + "id" + loc.id);
             this.markers.push({"position":{"lat":loc.latitude
                 , "lng":loc.longitude,
                 "address":loc.address,

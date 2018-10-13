@@ -1,20 +1,20 @@
 <template>
   <div>
-    <div class="carousel slide" data-interval="1000" id="carouselExampleIndicators" style="height: 100vh">
+    <div class="carousel slide" data-ride="carousel"  id="carouselExampleIndicators" style="height: 100vh;">
     <ol class="carousel-indicators">
       <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
       <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
       <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
     </ol>
-    <div class="carousel-inner" style="height: 100vh">
-      <div class="carousel-item active">
-        <img class="d-block w-100" src="../assets/images/Banner2.jpg" alt="First slide">
+    <div class="carousel-inner" style="height: 100vh;">
+      <div class="carousel-item active" style="height: 100vh">
+        <img class="d-block w-100" src="../assets/images/Banner2.jpg" alt="First slide" style="height: 100vh">
       </div>
       <div class="carousel-item">
-        <img class="d-block w-100" src="../assets/images/Banner1.jpg" alt="Second slide">
+        <img class="d-block w-100" src="../assets/images/Banner1.jpg" alt="Second slide" style="height: 100vh">
       </div>
       <div class="carousel-item">
-        <img class="d-block w-100" src="../assets/images/banner3.svg" alt="Third slide">
+        <img class="d-block w-100 m-0 p-0" src="../assets/images/banner4.jpg" alt="Third slide" style="height: 100vh">
       </div>
     </div>
     <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
@@ -29,17 +29,17 @@
 
     <div class="container" style="width: 70%">
       <div class="row mt-5 justify-content-center">
-          <div class="col-4 ">
+          <div class="col-lg-4 col-sm-10">
             <router-link active-class="active" to="/bottle">
             <img src="../assets/images/get_bottle.png" alt="" class="get_image">
             </router-link>
           </div>
-          <div class="col-4 ">
+          <div class="col-lg-4 col-sm-10">
             <router-link active-class="active" to="/book">
             <img src="../assets/images/get_book.png" alt="" class="get_image">
             </router-link>
           </div>
-          <div class="col-4 ">
+          <div class="col-lg-4 col-sm-10">
             <router-link active-class="active" to="/cloth">
             <img src="../assets/images/get_cloth.png" alt="" class="get_image">
             </router-link>

@@ -1,5 +1,6 @@
 <template>
   <div id="tmp">
+    <div style="width: 100%; height: 80px; background: white; position: fixed; z-index: 20"></div>
     <div id="modal-demo" class="modal fade show">
       <div class="modal-dialog">
         <div class="modal-content">
@@ -94,6 +95,7 @@
     },
     mounted () {
       console.log(this.markers);
+      $(".header_box>nav").addClass('bg-light');
     },
     methods:{
       map_tab: function (m) {

@@ -34,10 +34,14 @@
 
 <script>
     export default {
+      data () {
+        return {
+          show_bar:false
+        }
+      },
       mounted() {
-
         $(window).scroll(function () {
-          console.log($(window).scrollTop());
+          // console.log($(window).scrollTop());
           if ($(window).scrollTop() > 100) {
             $(".header_box>nav").addClass('bg-light');
           }
